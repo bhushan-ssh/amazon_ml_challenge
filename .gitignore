@@ -1,0 +1,17 @@
+# Challenge dataset — too large / should remain local
+data/
+
+# Generated outputs
+output/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
